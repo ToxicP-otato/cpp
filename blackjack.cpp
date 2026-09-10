@@ -1,4 +1,3 @@
-// Assignment 2: Zihao Yang
 //This program is black jack game.
 
 #include <iostream>

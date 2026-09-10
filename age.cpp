@@ -1,6 +1,5 @@
 //This program will ask user to input their age, and tell they if they are a child ,
 //a teen , an adult or a retiree.
-//Zihao Yang Math110B
 
 #include <iostream>
 using namespace std;
