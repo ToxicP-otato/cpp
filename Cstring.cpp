@@ -1,5 +1,5 @@
 //This program will complete 6 tasks.
-//CS 110B, Assignment 8,Zihao Yang
+
 #include <iostream>
 #include <cstring>
 using namespace std;

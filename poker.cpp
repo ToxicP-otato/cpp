@@ -1,5 +1,5 @@
 //This program will ask for 5 cards and determine what kind.
-//CS 110B, Assignment 4, Zihao Yang
+
 #include <iostream>
 using namespace std;
 

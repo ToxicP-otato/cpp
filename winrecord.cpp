@@ -1,5 +1,5 @@
 //This code will take score from user and display winner.
-//CS 110B, Assignment 9, Zihao Yang
+
 #include<iostream>
 using namespace std;
 
