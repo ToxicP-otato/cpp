@@ -38,13 +38,13 @@ int main()
 
 }
 
-/*[zyang66@hills ~]$ ./a.out
+/* ./a.out
 Enter number of carnitas sold: 3
 Enter number of beef sold: 5
 Enter number of shrimp sold: 2
 Enter number of veggie sold: 4
 You sold 14 burritos today. The most sold was beef.
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter number of carnitas sold: 5
 Enter number of beef sold: 7
 Enter number of shrimp sold: 8

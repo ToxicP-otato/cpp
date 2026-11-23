@@ -82,7 +82,7 @@ int main()
     return 0;
 }
 
-/*[zyang66@hills ~]$ ./a.out
+/* ./a.out
 The value of x is: 99
 The value of x(display from pointer) is: 99
 The value of x is: 0

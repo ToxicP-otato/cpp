@@ -58,7 +58,7 @@ int main()
 
 }
 
-/*[zyang66@hills ~]$ ./a.out
+/* ./a.out
 Enter team #1: Padres
 Enter the wins for team #1: 75
 Enter team #2: Dodgers
@@ -76,4 +76,4 @@ Dodgers: 91
 Padres: 75
 Diamondbacks: 70
 Rockies: 65
-[zyang66@hills ~]$*/
+*/

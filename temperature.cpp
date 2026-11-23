@@ -39,7 +39,7 @@ int main()
 }
 
 
-/* [zyang66@hills ~]$ ./a.out
+/* ./a.out
 Welcome to the temperature converter!
 Please input the temperature in Fahrenheit: 15
 The equivalent Celsius temperature is: -9.4

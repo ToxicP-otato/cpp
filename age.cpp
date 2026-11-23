@@ -55,18 +55,18 @@ int main()
 
 /*
 
-[zyang66@hills ~]$ ./a.out
+./a.out
 Please input your age: -1
 Error, Age must be a number and at least 0!
 Please input your age: 5
 You are a child.
-[zyang66@hills ~]$ ./a.out
+./a.out
 Please input your age: 14
 You are a teen.
-[zyang66@hills ~]$ ./a.out
+./a.out
 Please input your age: 20
 You are an adult.
-[zyang66@hills ~]$ ./a.out
+./a.out
 Please input your age: 65
 You are a retiree.
 

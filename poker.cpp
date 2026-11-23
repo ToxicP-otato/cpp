@@ -229,7 +229,7 @@ int main()
 }
 
 /*
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter five numeric cards, no face cards. Use 2 - 9.
 Card 1: 2
 Card 2: 2
@@ -237,7 +237,7 @@ Card 3: 5
 Card 4: 2
 Card 5: 2
 Four of a kind!
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter five numeric cards, no face cards. Use 2 - 9.
 Card 1: 5
 Card 2: 4
@@ -245,7 +245,7 @@ Card 3: 5
 Card 4: 5
 Card 5: 4
 Full house!
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter five numeric cards, no face cards. Use 2 - 9.
 Card 1: 3
 Card 2: 3
@@ -253,7 +253,7 @@ Card 3: 3
 Card 4: 2
 Card 5: 5
 Three of a kind!
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter five numeric cards, no face cards. Use 2 - 9.
 Card 1: 2
 Card 2: 2
@@ -261,7 +261,7 @@ Card 3: 5
 Card 4: 5
 Card 5: 4
 Two pair!
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter five numeric cards, no face cards. Use 2 - 9.
 Card 1: 2
 Card 2: 2
@@ -269,7 +269,7 @@ Card 3: 7
 Card 4: 5
 Card 5: 6
 Pair!
-[zyang66@hills ~]$ ./a.out
+./a.out
 Enter five numeric cards, no face cards. Use 2 - 9.
 Card 1: 3
 Card 2: 4

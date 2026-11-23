@@ -50,9 +50,9 @@ int main()
 
 /*
 
-[zyang66@hills ~]$ nano blackjack.cpp
-[zyang66@hills ~]$ g++ blackjack.cpp
-[zyang66@hills ~]$ ./a.out
+nano blackjack.cpp
+g++ blackjack.cpp
+./a.out
 First cards :13,12
 Total:25
 Bust!
@@ -71,9 +71,9 @@ Total:16
 Do you want to draw another card?
 n
  Would you likde to play again? (y/n)n
-[zyang66@hills ~]$ nano blackjack.cpp
-[zyang66@hills ~]$ g++ blackjack.cpp
-[zyang66@hills ~]$ ./a.out
+nano blackjack.cpp
+g++ blackjack.cpp
+./a.out
 First cards :13,5
 Total:18
 Do you want to draw another card?(y/n):

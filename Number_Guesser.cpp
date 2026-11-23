@@ -92,7 +92,7 @@ Is it 37? (h/l/c):c
 Great!Do you want to play again? (y/n):n
 
 Testing for guessNumber(Random):
-[zyang66@hills ~]$ ./a.out
+./a.out
 Think of a number between 1 and 100.
 Is it 84? (h/l/c):l
 Is it 49? (h/l/c):h

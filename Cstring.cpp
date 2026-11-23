@@ -144,7 +144,7 @@ int main()
 }
 
 /*
-[zyang66@hills ~]$ ./a.out
+./a.out
 lastIndexOf("Giants", 'a') = 2
 lastIndexOf("Giants", 'z') = -1
 reverse("flower") -> rewolf

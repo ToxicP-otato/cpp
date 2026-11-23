@@ -69,7 +69,7 @@ int main()
 
 }
 
-/*[zyang66@hills ~]$ ./a.out
+/* ./a.out
 How many teams are in the league?: 4
 Enter team #1: Padres
 Enter the wins for team #1: 75
@@ -85,4 +85,4 @@ Giants: 92
 Dodgers: 91
 Padres: 75
 Cubs: 65
-[zyang66@hills ~]$*/
+*/
